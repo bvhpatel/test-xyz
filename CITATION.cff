@@ -1,0 +1,13 @@
+title: test-xyz
+authors:
+  - given-names: Bhavesh
+    family-names: Patel
+    affiliation: California Medical Innovations Institute
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+abstract: Test repo
+keywords:
+  - one
+license: MIT
+repository-code: https://github.com/bvhpatel/test-xyz
